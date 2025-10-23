@@ -5,3 +5,4 @@ This repo contains a universal parser that extracts structured JSON from any ban
 Run locally:
 pip install -r requirements.txt
 uvicorn app:app --reload
+"# credit-card-statement-parser" 
